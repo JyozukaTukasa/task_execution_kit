@@ -44,6 +44,11 @@ task-reporting を使ってください。
 2. [task_breakdown_template.md](./task_breakdown_template.md)
 3. [work_report_template.md](./work_report_template.md)
 
+## ダウンロード
+
+- 直接ダウンロード: [task_execution_kit.zip](./task_execution_kit.zip)
+- GitHub から取る場合: `Code` -> `Download ZIP`
+
 ## 補足
 
 - タスク分解の雛形: [task_breakdown_template.md](./task_breakdown_template.md)
