@@ -1,0 +1,4 @@
+version: 1
+display_name: Junior Task Reporting
+short_description: 新人の作業事実を固定フォーマットの報告に整理する
+default_prompt: 今日やった作業内容を、自由文ではなく固定フォーマットの作業報告に整理してください。事実だけを書いてください。
