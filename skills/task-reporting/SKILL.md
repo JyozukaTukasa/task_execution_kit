@@ -1,9 +1,9 @@
 ---
-name: junior-task-reporting
-description: Use this skill when a junior engineer needs to prepare a work report from facts only: organize completed work, unfinished work, blockers, and next steps into a fixed reporting format without generating free-form status prose or guessing progress.
+name: task-reporting
+description: Use this skill when someone needs to prepare a work report from facts only: organize completed work, unfinished work, blockers, and next steps into a fixed reporting format without generating free-form status prose or guessing progress.
 ---
 
-# Junior Task Reporting
+# Task Reporting
 
 Use this skill when the user wants to turn today's actual work into a clean report.
 

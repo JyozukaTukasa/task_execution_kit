@@ -1,0 +1,4 @@
+version: 1
+display_name: Task Breakdown
+short_description: 割り振られたタスクを進められる形に分解する
+default_prompt: 割り振られたタスクを、自分で進められるように分解してください。目的、成果物、完了条件、不明点、今すぐ着手できることを整理してください。

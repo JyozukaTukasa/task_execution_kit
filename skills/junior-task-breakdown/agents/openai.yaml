@@ -1,4 +1,0 @@
-version: 1
-display_name: Junior Task Breakdown
-short_description: 割り振られたタスクを新人が進められる形に分解する
-default_prompt: 割り振られたタスクを、新人が自分で進められるように分解してください。目的、成果物、完了条件、不明点、今すぐ着手できることを整理してください。

@@ -1,14 +1,14 @@
 ---
-name: junior-task-breakdown
-description: Use this skill when a junior engineer needs to turn an assigned task into something they can actually work on: clarify purpose and done conditions, identify unknowns, note upstream and downstream context, break the task into small executable steps, and decide what to do today without guessing missing facts.
+name: task-breakdown
+description: Use this skill when someone needs to turn an assigned task into something they can actually work on: clarify purpose and done conditions, identify unknowns, note upstream and downstream context, break the task into small executable steps, and decide what to do today without guessing missing facts.
 ---
 
-# Junior Task Breakdown
+# Task Breakdown
 
 Use this skill when the user has been assigned a task and needs help understanding it and breaking it down into actionable work.
 
 ## Goal
-Produce a practical working memo for the junior engineer using the existing templates in this kit.
+Produce a practical working memo using the existing templates in this kit.
 
 ## Default flow
 1. Read the assigned task as written.
